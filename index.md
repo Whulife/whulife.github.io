@@ -1,5 +1,7 @@
 ## Welcome to whulife's Pages
 
+This page is just for fun!
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -47,9 +49,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 # Personal notes
 
-## [Makefile语法](https://whulife.github.io/persionalnotes/Makefile.md)
-## [Markdown语法](https://whulife.github.io/persionalnotes/Markdown.md)
-## [Jupyter Notebook使用说明](https://whulife.github.io/persionalnotes/JupyterNotebook.md)
+## [Makefile语法](https://whulife.github.io/personalnotes/Makefile.md)
+## [Markdown语法](https://whulife.github.io/personalnotes/Markdown.md)
+## [Jupyter Notebook使用说明](https://whulife.github.io/personalnotes/JupyterNotebook.md)
 
 ### Jekyll Themes
 

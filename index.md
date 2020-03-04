@@ -1,5 +1,21 @@
 ## Welcome to whulife's Pages
 
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>飞翔哥</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：北京市××区××路××号××大学，××楼，邮编×××</b></p>
+    </td>
+    <td width="25%">
+      <img src="https://unsplash.com/photos/SRNKol31s64" width="25%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 You can use the [editor on GitHub](https://github.com/Whulife/whulife.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -31,9 +47,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 # Personal notes
 
-## [Makefile语法](https://whulife.github.io/persionanotes/Makefile.md)
-## [Markdown语法](https://whulife.github.io/persionanotes/Markdown.md)
-## [Jupyter Notebook使用说明](https://whulife.github.io/persionanotes/jupyternotebook.md)
+## [Makefile语法](https://whulife.github.io/persionalnotes/Makefile.md)
+## [Markdown语法](https://whulife.github.io/persionalnotes/Markdown.md)
+## [Jupyter Notebook使用说明](https://whulife.github.io/persionalnotes/JupyterNotebook.md)
 
 ### Jekyll Themes
 

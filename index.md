@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to whulife's Pages
 
 You can use the [editor on GitHub](https://github.com/Whulife/whulife.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,13 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+# Personal notes
+
+## [Makefile语法](https://whulife.github.io/persionanotes/Makefile.md)
+## [Markdown语法](https://whulife.github.io/persionanotes/Markdown.md)
+## [Jupyter Notebook使用说明](https://whulife.github.io/persionanotes/jupyternotebook.md)
 
 ### Jekyll Themes
 

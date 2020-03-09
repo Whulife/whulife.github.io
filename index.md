@@ -7,51 +7,42 @@ This page is just for fun!
     <td width="75%">
       <h1>飞翔哥</h1>
       <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：北京市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><b>CASM</b></p>
+      <p><b>邮箱：979432465@qq.com</b></p>
+      <p><b>地址：北京市海淀区</b></p>
     </td>
     <td width="25%">
-      <img src="https://unsplash.com/photos/SRNKol31s64" width="25%">      % 插入证件照代码
+      <img src="img/flybro.jpg" width="25%">      % 插入证件照代码
     </td>
   </tr>
 </table>
 
 
-You can use the [editor on GitHub](https://github.com/Whulife/whulife.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 
 # Personal notes
 
-## [Makefile语法](https://www.notion.so/whulife/Makefile-a983ae1926014184a547826fc8d9d869)
-## [Markdown语法](https://whulife.github.io/personalnotes/Markdown.md)
-## [Jupyter Notebook使用说明](https://whulife.github.io/personalnotes/JupyterNotebook.md)
+## Utils
+
+
+### [Makefile语法](https://www.notion.so/whulife/Makefile-a983ae1926014184a547826fc8d9d869)
+
+### [Markdown语法](https://www.notion.so/whulife/Markdown-6e30285b2e8549ecb9c843854dda7650)
+
+### [Jupyter Notebook使用说明](https://www.notion.so/whulife/Jupyter-Notebook-8dd404e1920a4a8689dfdc1f1ba6e748)
+
+---
+
+## Deep Learning
+
+### [PyTorch C++库(libtorch)的使用](https://www.notion.so/whulife/PyTorch-C-libtorch-7ba2033ddef745dba47843416b7f640f)
+
+
+---
+### Github Pages
+
+You can use the [editor on GitHub](https://github.com/Whulife/whulife.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Jekyll Themes
 

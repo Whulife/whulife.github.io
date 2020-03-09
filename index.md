@@ -49,7 +49,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 # Personal notes
 
-## [Makefile语法](https://whulife.github.io/personalnotes/Makefile.md)
+## [Makefile语法](https://www.notion.so/whulife/Makefile-a983ae1926014184a547826fc8d9d869)
 ## [Markdown语法](https://whulife.github.io/personalnotes/Markdown.md)
 ## [Jupyter Notebook使用说明](https://whulife.github.io/personalnotes/JupyterNotebook.md)
 

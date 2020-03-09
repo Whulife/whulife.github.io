@@ -6,9 +6,9 @@ This page is just for fun!
   <tr>
     <td width="75%">
       <h1>飞翔哥</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>CASM</b></p>
-      <p><b>邮箱：979432465@qq.com</b></p>
+      <p><b>WHU Bachelor</b></p>
+      <p><b>CASM Master</b></p>
+      <p><b>邮箱：whulife@gmail.com</b></p>
       <p><b>地址：北京市海淀区</b></p>
     </td>
     <td width="25%">

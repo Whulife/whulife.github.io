@@ -12,7 +12,7 @@ This page is just for fun!
       <p><b>地址：北京市海淀区</b></p>
     </td>
     <td width="25%">
-      <img src="img/flybro.jpg" width="25%">      % 插入证件照代码
+      <img src="flybro.jpg" width="25%">      % 插入证件照代码
     </td>
   </tr>
 </table>
